@@ -1,5 +1,5 @@
 """
- * Project TF IDF Vectorizer
+ * Project TF-IDF Vectorizer
  *
  * @author      Moin Khan
  * @copyright   Moin Khan
